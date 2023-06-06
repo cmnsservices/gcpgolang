@@ -1,4 +1,3 @@
 # gcp-golang
 
-
-readme golang
+ golang
