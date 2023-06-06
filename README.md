@@ -1,3 +1,3 @@
 # gcp-golang
 
- golang
+ golang check
