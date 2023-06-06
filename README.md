@@ -1,4 +1,4 @@
 # gcp-golang
 
 
-Sample readme file- gcp golang 
+Sample readme - gcp golang 
