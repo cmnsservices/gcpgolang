@@ -1,0 +1,16 @@
+version: 1.0
+stages:
+  stage1:
+    jobs:
+    - [customshelljob]
+jobs: 
+  customshelljob:
+    description: shell commands job
+    type: custom-shell
+    parameters:
+     scripts:
+      - pwd
+      - mkdir test
+      - ls
+      - cd test && pwd
+      - echo $HELLO
